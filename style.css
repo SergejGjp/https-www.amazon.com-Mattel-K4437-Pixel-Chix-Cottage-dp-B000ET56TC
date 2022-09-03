@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+h1 {
+    background-color: green;
+    color: coral;
+}
+
+h2 {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+.cheese {
+    font-size: 25px;
+    color: red;
+}
+
+.recipes {
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
